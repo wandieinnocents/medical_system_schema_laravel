@@ -6,7 +6,7 @@ A database schema implementation for a medical system
 ## Database Schema Preview
 <img src="database_design.png" alt="Alt text" title="Screenshot">
 
-## Database Seeder single table preview
+## Database Seeder single  table preview
 <img src="seeders_phpmyadmin.png" alt="Alt text" title="Seeder">
 
 
