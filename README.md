@@ -3,6 +3,9 @@
 
 A database schema implementation for a medical system
 
+
+<img src="database_design.png" alt="Alt text" title="Screenshot">
+
 ## Database Tables Created
 - appointments
 - lab_results
